@@ -1,0 +1,4 @@
+Sample file output
+showing the beauty and
+simplicity of the ruby 
+programming language.
