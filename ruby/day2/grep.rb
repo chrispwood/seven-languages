@@ -1,5 +1,9 @@
 #! /usr/bin/ruby
 
+# author: Chris Wood
+# date: 12/30/12
+# exercise: 7 Languages in 7 Weeks by Bruce Tate
+
 # Write a simple grep that will print the lines of a file 
 # having any occurrences of a phrase anywhere in that line. 
 # You will need to do a simple regular expression match and 

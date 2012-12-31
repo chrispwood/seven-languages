@@ -1,5 +1,9 @@
 #! /usr/bin/ruby
 
+# author: Chris Wood
+# date: 12/30/12
+# exercise: 7 Languages in 7 Weeks by Bruce Tate
+
 # Find accessing file with code blocks:
 File.open('sample.txt','r').each { |line| puts line }
 

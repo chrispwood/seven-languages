@@ -1,5 +1,9 @@
 #! /usr/bin/ruby 
 
+# author: Chris Wood
+# date: 12/30/12
+# exercise: 7 Languages in 7 Weeks by Bruce Tate
+
 # The Tree class was interesting, but it did not allow you to specify 
 # a new tree with a clean user interface. Let the initializer accept 
 # a nested structure of hashes. You should be able to specify a tree 
