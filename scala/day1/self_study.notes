@@ -1,0 +1,9 @@
+1. Scala API:  http://www.scala-lang.org/api/current/index.html#package
+2. Java & Scala Comparison:
+	http://stackoverflow.com/questions/3439612/comparison-of-groovy-and-scala-against-java
+	http://www.infoq.com/articles/java-8-vs-scala
+	http://www.infoq.com/articles/scala-java-myths-factshttp://pragprog.com/magazines/2012-03/comparing-java-and-scalas-expressiveness
+3. Val v Var
+	http://blog.sanaulla.info/2009/07/02/val-versus-var-in-scala/
+	http://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala
+	http://stackoverflow.com/questions/4437373/use-of-def-val-and-var-in-scala
