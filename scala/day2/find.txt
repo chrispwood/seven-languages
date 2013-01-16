@@ -1,0 +1,8 @@
+# discussion on scala files
+http://www.naildrivin5.com/blog/2010/01/26/reading-a-file-in-scala-ruby-java.html
+http://www.tutorialspoint.com/scala/scala_file_io.htm
+http://stackoverflow.com/questions/1284423/read-entire-file-in-scala
+
+# what makes a closure different from a code block
+http://martinfowler.com/bliki/Closure.html
+http://gleichmann.wordpress.com/2010/11/15/functional-scala-closures/
