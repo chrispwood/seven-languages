@@ -1,0 +1,10 @@
+Prolog tutorial:
+http://www.learnprolognow.org
+
+Support forum:
+stackoverflow.com
+http://www.tek-tips.com/threadminder.cfm?pid=345
+http://stackoverflow.com/questions/2402101/prolog-open-source-community-code-repository-blogs-forums
+
+Gnu Prolog online reference:
+http://gprolog.univ-paris1.fr/manual/gprolog.html
